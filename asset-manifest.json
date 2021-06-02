@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/praveen_nathan/static/css/main.4e488e7e.chunk.css",
+    "main.js": "/praveen_nathan/static/js/main.4016de63.chunk.js",
+    "main.js.map": "/praveen_nathan/static/js/main.4016de63.chunk.js.map",
+    "runtime-main.js": "/praveen_nathan/static/js/runtime-main.03f50c30.js",
+    "runtime-main.js.map": "/praveen_nathan/static/js/runtime-main.03f50c30.js.map",
+    "static/js/2.f9e18bf3.chunk.js": "/praveen_nathan/static/js/2.f9e18bf3.chunk.js",
+    "static/js/2.f9e18bf3.chunk.js.map": "/praveen_nathan/static/js/2.f9e18bf3.chunk.js.map",
+    "index.html": "/praveen_nathan/index.html",
+    "static/css/main.4e488e7e.chunk.css.map": "/praveen_nathan/static/css/main.4e488e7e.chunk.css.map",
+    "static/js/2.f9e18bf3.chunk.js.LICENSE.txt": "/praveen_nathan/static/js/2.f9e18bf3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/praveen_nathan/static/media/SamsungSharpSans-Bold.56922999.ttf",
+    "static/media/man.9a528091.jpg": "/praveen_nathan/static/media/man.9a528091.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f50c30.js",
+    "static/js/2.f9e18bf3.chunk.js",
+    "static/css/main.4e488e7e.chunk.css",
+    "static/js/main.4016de63.chunk.js"
+  ]
+}
