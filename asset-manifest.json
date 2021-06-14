@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/praveen_nathan/static/css/main.4e488e7e.chunk.css",
-    "main.js": "/praveen_nathan/static/js/main.553c8bb1.chunk.js",
-    "main.js.map": "/praveen_nathan/static/js/main.553c8bb1.chunk.js.map",
+    "main.js": "/praveen_nathan/static/js/main.33f36751.chunk.js",
+    "main.js.map": "/praveen_nathan/static/js/main.33f36751.chunk.js.map",
     "runtime-main.js": "/praveen_nathan/static/js/runtime-main.03f50c30.js",
     "runtime-main.js.map": "/praveen_nathan/static/js/runtime-main.03f50c30.js.map",
     "static/js/2.f9e18bf3.chunk.js": "/praveen_nathan/static/js/2.f9e18bf3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.03f50c30.js",
     "static/js/2.f9e18bf3.chunk.js",
     "static/css/main.4e488e7e.chunk.css",
-    "static/js/main.553c8bb1.chunk.js"
+    "static/js/main.33f36751.chunk.js"
   ]
 }
